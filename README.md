@@ -1,3 +1,2 @@
 # weather_web
-The weather  website
-devanshu desai
+This is a weather website
